@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/mohanc1989/node-basic/issues"
   },
-  "homepage": "https://github.com/mohanc1989/node-basic#readme"
+  "homepage": "https://github.com/mohanc1989/node-basic#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "pm2": "^5.4.1"
+  }
 }
