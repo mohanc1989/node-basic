@@ -1,24 +1,16 @@
 {
-  "name": "basic",
+  "name": "express-demo",
   "version": "1.0.0",
-  "description": "Node Js Basic Beginners",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mohanc1989/node-basic.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mohanc1989/node-basic/issues"
-  },
-  "homepage": "https://github.com/mohanc1989/node-basic#readme",
+  "description": "",
   "dependencies": {
-    "dotenv": "^16.4.5",
-    "pm2": "^5.4.1"
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9"
   }
 }
