@@ -2,4 +2,4 @@
 #Basic Leaning
 Node Js Basic Beginners
 
-To run use node app.js
+To run use nodeman index.js
